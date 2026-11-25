@@ -5,7 +5,7 @@
 ## 进度
 
 ### 阶段 1：Git 与 GitHub（`phase1-git/`）
-- [ ] W1 Git 基础：init/add/commit/branch/merge/rebase/stash（learngitbranching.js.org）
+- [x] W1 Git 基础：init/add/commit/branch/merge/rebase/stash（learngitbranching.js.org）
 - [ ] W2 GitHub 协作：Fork、PR、Issues、Review、Projects（skills.github.com）
 - [ ] W3 命令行、`gh` CLI、SSH key、Markdown
 - [ ] 产出：Profile README + 1 个开源文档 PR
